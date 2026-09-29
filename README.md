@@ -61,8 +61,8 @@ I'm **Devanshu Verma**, a **frontend developer** based in **Noida, India** with 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code-devanshu&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Devanshu Verma GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-devanshu&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-devanshu&theme=github_dark" alt="Devanshu Verma GitHub stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-devanshu&theme=github_dark" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=code-devanshu&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
