@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Devanshu Verma 👋</h1>
-<h3 align="center">Frontend Developer · React, Next.js & TypeScript · Noida, India</h3>
+<p align="center">
+  <img src="./banner.svg" alt="Devanshu Verma — Frontend Developer · React, Next.js &amp; TypeScript · Noida, India" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/Portfolio-devanshuverma.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devanshu Verma portfolio"/></a>
