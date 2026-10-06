@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/Portfolio-devanshuverma.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devanshu Verma portfolio"/></a>
-  <a href="https://www.linkedin.com/in/devthecoder/"><img src="https://img.shields.io/badge/LinkedIn-devthecoder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devanshu Verma on LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/devanshu-verma-dev/"><img src="https://img.shields.io/badge/LinkedIn-Devanshu_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devanshu Verma on LinkedIn"/></a>
   <a href="mailto:code.devanshu@gmail.com"><img src="https://img.shields.io/badge/Email-code.devanshu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Devanshu Verma"/></a>
 </p>
 
@@ -22,7 +22,7 @@ I'm **Devanshu Verma**, a **frontend developer** based in **Noida, India** with 
 - 📦 10+ apps shipped, plus an open-source Angular library on npm
 - 🤝 **Open to freelance projects and full-time frontend roles** (remote-friendly)
 
-👉 See case studies and more on my portfolio: **[devanshuverma.in](https://www.devanshuverma.in/)** · Connect on **[LinkedIn](https://www.linkedin.com/in/devthecoder/)**
+👉 See case studies and more on my portfolio: **[devanshuverma.in](https://www.devanshuverma.in/)** · Connect on **[LinkedIn](https://www.linkedin.com/in/devanshu-verma-dev/)**
 
 ## 🛠️ Tech stack
 
@@ -73,6 +73,6 @@ I'm **Devanshu Verma**, a **frontend developer** based in **Noida, India** with 
 
 Looking for a **React / Next.js frontend developer** for a freelance project or a full-time role? I'd love to hear from you.
 
-**🌐 [devanshuverma.in](https://www.devanshuverma.in/)** · **💼 [LinkedIn](https://www.linkedin.com/in/devthecoder/)** · **✉️ [code.devanshu@gmail.com](mailto:code.devanshu@gmail.com)**
+**🌐 [devanshuverma.in](https://www.devanshuverma.in/)** · **💼 [LinkedIn](https://www.linkedin.com/in/devanshu-verma-dev/)** · **✉️ [code.devanshu@gmail.com](mailto:code.devanshu@gmail.com)**
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=code-devanshu&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views"/></p>
