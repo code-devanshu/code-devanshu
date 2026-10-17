@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.devanshuverma.in/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Crafting+pixel-perfect%2C+accessible+UIs+%E2%9C%A8;Obsessed+with+Core+Web+Vitals+%E2%9A%A1;Design+systems+%2B+motion+%3D+%F0%9F%92%9C;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Angular+%C2%B7+Vue;Open+to+freelance+%26+full-time+roles+%F0%9F%9A%80" alt="Typing animation: crafting pixel-perfect, accessible UIs" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=Crafting+pixel-perfect%2C+accessible+UIs;Obsessed+with+Core+Web+Vitals;Design+systems+%2B+delightful+motion;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Angular;Open+to+freelance+%26+full-time+roles" alt="Typing animation: crafting pixel-perfect, accessible UIs" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/Portfolio-devanshuverma.in-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/devanshu-verma-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:code.devanshu@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=code-devanshu&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=code-devanshu.code-devanshu&left_text=profile%20views&left_color=%23334155&right_color=%2306b6d4" alt="Profile views"/>
 </p>
 
 <picture>
@@ -178,7 +178,11 @@ const devanshu: FrontendEngineer = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-devanshu&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-light.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-dark.svg" alt="Contribution activity graph for the last 60 days"/>
+  </picture>
 </p>
 
 <p align="center">
