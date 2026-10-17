@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider">
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".3" stop-color="#a78bfa"/><stop offset=".5" stop-color="#22d3ee"/><stop offset=".7" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient></defs>
+<defs><linearGradient id="l" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset=".3" stop-color="#a78bfa"/><stop offset=".5" stop-color="#22d3ee"/><stop offset=".7" stop-color="#f472b6"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></linearGradient></defs>
 <style>.d{stroke-dasharray:4 10;animation:m 3s linear infinite}@keyframes m{to{stroke-dashoffset:-28}}@media (prefers-reduced-motion:reduce){.d{animation:none}}</style>
 <path class="d" d="M0 12H1200" stroke="url(#l)" stroke-width="3" stroke-linecap="round"/>
 </svg>
