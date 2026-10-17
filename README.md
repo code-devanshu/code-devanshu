@@ -1,78 +1,206 @@
+<!-- ============ HERO ============ -->
+<a href="https://www.devanshuverma.in/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img src="./assets/banner-dark.svg" width="100%" alt="Hey, I'm Devanshu — Frontend Engineer who builds web apps that feel instant. React · Next.js · TypeScript · Angular · Vue">
+  </picture>
+</a>
+
 <p align="center">
-  <img src="./banner.svg" alt="Devanshu Verma — Frontend Developer · React, Next.js &amp; TypeScript · Noida, India" width="100%"/>
+  <a href="https://www.devanshuverma.in/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=40&lines=Crafting+pixel-perfect%2C+accessible+UIs;Obsessed+with+Core+Web+Vitals;Design+systems+%2B+delightful+motion;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Angular;Open+to+freelance+%26+full-time+roles" alt="Typing animation: crafting pixel-perfect, accessible UIs" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/Portfolio-devanshuverma.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devanshu Verma portfolio"/></a>
-  <a href="https://www.linkedin.com/in/devanshu-verma-dev/"><img src="https://img.shields.io/badge/LinkedIn-Devanshu_Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Devanshu Verma on LinkedIn"/></a>
-  <a href="mailto:code.devanshu@gmail.com"><img src="https://img.shields.io/badge/Email-code.devanshu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Devanshu Verma"/></a>
+  <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/Portfolio-devanshuverma.in-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/devanshu-verma-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:code.devanshu@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=code-devanshu.code-devanshu&left_text=profile%20views&left_color=%23334155&right_color=%2306b6d4" alt="Profile views"/>
 </p>
 
-<p align="center"><b>I build web apps that feel instant.</b></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
 
----
+## 👨‍💻 About me
 
-## 🚀 About me
+I'm a **frontend engineer** from **Noida, India** with **5+ years** of turning complex product requirements into fast, accessible, delightful interfaces. I live at the intersection of **design and engineering** — component architecture, design systems, performance tuning and UI animation are my happy place.
 
-I'm **Devanshu Verma**, a **frontend developer** based in **Noida, India** with **5+ years** of experience building fast, production-grade web applications with **React, Next.js, Angular, Vue and TypeScript**. I work where design meets engineering — turning complex requirements into clean, performant, accessible interfaces.
+```tsx
+const devanshu: FrontendEngineer = {
+  location:   "Noida, India 🇮🇳",
+  experience: "5+ years",
+  previously: ["Knoldus", "Gojoko Tech", "Xcentium"],
+  stack:      ["React", "Next.js", "TypeScript", "Angular", "Vue"],
+  loves:      ["design systems", "Core Web Vitals", "a11y", "micro-interactions"],
+  shipped:    "10+ production apps + an open-source Angular lib on npm",
+  building:   "Kopi — a privacy-first clipboard manager (Rust) 🦀",
+  education:  "B.Tech IT, KIET Group of Institutions",
+  openTo:     ["freelance", "full-time frontend roles", "remote"],
+};
+```
 
-- 💼 Previously at **Knoldus**, **Gojoko Tech** and **Xcentium**
-- 🧩 Focus: component architecture, design systems, performance optimization and UI animation
-- 🎓 B.Tech in Information Technology, KIET Group of Institutions
-- 📦 10+ apps shipped, plus an open-source Angular library on npm
-- 🤝 **Open to freelance projects and full-time frontend roles** (remote-friendly)
+## 🎯 What I care about
 
-👉 See case studies and more on my portfolio: **[devanshuverma.in](https://www.devanshuverma.in/)** · Connect on **[LinkedIn](https://www.linkedin.com/in/devanshu-verma-dev/)**
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h3>⚡</h3>
+      <b>Performance</b><br/>
+      <sub>Green Core Web Vitals, lean bundles, smart code-splitting, SSR/SSG &amp; edge caching.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>♿</h3>
+      <b>Accessibility</b><br/>
+      <sub>Semantic HTML, keyboard-first flows, ARIA done right, WCAG 2.2 AA as the baseline.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🧩</h3>
+      <b>Design systems</b><br/>
+      <sub>Token-driven, typed, documented components that scale across teams and products.</sub>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h3>🎞️</h3>
+      <b>Motion &amp; polish</b><br/>
+      <sub>Purposeful micro-interactions that respect <code>prefers-reduced-motion</code>.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech stack
 
-**Frameworks & languages**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<table>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,nuxtjs&theme=dark" alt="React, Next.js, Angular, Vue, Nuxt"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,html,css,python,rust&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, Python, Rust"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Styling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,materialui&theme=dark" alt="Tailwind CSS, Sass, styled-components, Material UI"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data &amp; state</b></td>
+    <td><img src="https://skillicons.dev/icons?i=redux,graphql,nodejs&theme=dark" alt="Redux, GraphQL, Node.js"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vite,webpack,jest,git,github,docker,vercel,figma&theme=dark" alt="Vite, Webpack, Jest, Git, GitHub, Docker, Vercel, Figma"/></td>
+  </tr>
+</table>
 
-**Styling, data & tooling**<br/>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce_LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<sub>Also: Salesforce LWC · Gemini AI · npm package publishing</sub>
 
-## ⭐ Featured projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **[ToS Simplifier](https://github.com/code-devanshu/tos-simplifier)** | AI-powered analyzer that turns long Terms of Service into plain-language summaries using Gemini AI | Next.js · TypeScript · Gemini | [Live](https://tos-simplifier-rho.vercel.app) |
-| **[SVG Recolor](https://github.com/code-devanshu/svgrecolor)** | Batch-recolor SVG fills, strokes and inline styles with a live preview grid and bulk download | Next.js · TypeScript | [Live](https://svgrecolor.vercel.app) |
-| **[Next Photo Editor](https://github.com/code-devanshu/next-photo-editor)** | Fast, fully client-side image cropping and editing in the browser | Next.js · TypeScript | [Live](https://next-photo-editor-eight.vercel.app) |
-| **[MediBook](https://github.com/code-devanshu/medi-book)** | Scheduling and patient-management platform for clinics, diagnostic labs and therapy centres | Next.js · TypeScript | [Live](https://medi-book-theta.vercel.app) |
-| **[House Help Tracker](https://github.com/code-devanshu/house-help-tracker)** | Track household staff attendance, auto-calculate salaries and lock months after payout | Next.js · TypeScript | [Live](https://house-help-tracker.vercel.app) |
-| **[CUET Score Calculator](https://github.com/code-devanshu/cuet-frontend)** | Upload your OMR response PDF and answer key to instantly calculate your CUET UG score ([Python backend](https://github.com/code-devanshu/cuet-backend)) | TypeScript · Python | [Live](https://cuet-frontend.vercel.app) |
-| **NGX Table Pagination** | Lightweight Angular npm library for server-side data-table pagination | Angular · npm | [Portfolio](https://www.devanshuverma.in/) |
+## 🚀 Featured work
 
-🍽️ **Restaurant & business websites:** [CoffeeNook](https://coffee-nook.vercel.app) · [Buona Sera](https://buonasera-five.vercel.app) · [JP Pizzeria Noida](https://jppizzerianoida.vercel.app) · [Chinese Chakhna](https://chineasechakhna.vercel.app)
+> [!TIP]
+> **Spotlight — [Kopi](https://github.com/code-devanshu/kopi)** 🦀 &nbsp;An open-source, **privacy-first clipboard manager for macOS and Windows**, written in Rust. Currently in pre-alpha — stars, issues and ideas are very welcome!
 
-## 📊 GitHub stats
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 <a href="https://github.com/code-devanshu/tos-simplifier">ToS Simplifier</a></h3>
+      AI-powered analyzer that turns long Terms of Service into plain-language summaries with Gemini.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/><br/>
+      <a href="https://tos-simplifier-rho.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/tos-simplifier">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/code-devanshu/svgrecolor">SVG Recolor</a></h3>
+      Batch-recolor SVG fills, strokes and inline styles with a live preview grid and bulk download.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+      <a href="https://svgrecolor.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/svgrecolor">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/code-devanshu/next-photo-editor">Next Photo Editor</a></h3>
+      Fast, fully client-side image cropping and editing — your photos never leave the browser.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+      <a href="https://next-photo-editor-eight.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/next-photo-editor">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/code-devanshu/medi-book">MediBook</a></h3>
+      Scheduling and patient-management platform for clinics, diagnostic labs and therapy centres.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+      <a href="https://medi-book-theta.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/medi-book">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 <a href="https://github.com/code-devanshu/house-help-tracker">House Help Tracker</a></h3>
+      Track household staff attendance, auto-calculate salaries and lock months after payout.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+      <a href="https://house-help-tracker.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/house-help-tracker">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/code-devanshu/cuet-frontend">CUET Score Calculator</a></h3>
+      Upload your OMR response PDF + answer key and get your CUET UG score instantly (<a href="https://github.com/code-devanshu/cuet-backend">Python backend</a>).<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+      <a href="https://cuet-frontend.vercel.app"><b>🔗 Live demo</b></a> · <a href="https://github.com/code-devanshu/cuet-frontend">Code</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📦 Open source &amp; client work</b></summary>
+  <br/>
+
+- **NGX Table Pagination** — lightweight Angular npm library for server-side data-table pagination ([details](https://www.devanshuverma.in/))
+- 🍽️ **Restaurant &amp; business sites:** [CoffeeNook](https://coffee-nook.vercel.app) · [Buona Sera](https://buonasera-five.vercel.app) · [JP Pizzeria Noida](https://jppizzerianoida.vercel.app) · [Chinese Chakhna](https://chineasechakhna.vercel.app)
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+## 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-devanshu&theme=github_dark" alt="Devanshu Verma GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-devanshu&theme=github_dark" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=code-devanshu&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-devanshu&theme=tokyonight" alt="Top languages"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=code-devanshu&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=code-devanshu&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak"/>
 </p>
 
-## 📫 Let's work together
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-light.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/activity-dark.svg" alt="Contribution activity graph for the last 60 days"/>
+  </picture>
+</p>
 
-Looking for a **React / Next.js frontend developer** for a freelance project or a full-time role? I'd love to hear from you.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/code-devanshu/code-devanshu/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
+  </picture>
+</p>
 
-**🌐 [devanshuverma.in](https://www.devanshuverma.in/)** · **💼 [LinkedIn](https://www.linkedin.com/in/devanshu-verma-dev/)** · **✉️ [code.devanshu@gmail.com](mailto:code.devanshu@gmail.com)**
+## 📫 Let's build something
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=code-devanshu&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views"/></p>
+Need a **React / Next.js engineer** who sweats the details — for a freelance build or a full-time role? My inbox is open.
+
+<p align="center">
+  <a href="https://www.devanshuverma.in/"><img src="https://img.shields.io/badge/🌐_devanshuverma.in-7c3aed?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/devanshu-verma-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:code.devanshu@gmail.com"><img src="https://img.shields.io/badge/code.devanshu@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:ec4899&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="Thanks for stopping by"/>
